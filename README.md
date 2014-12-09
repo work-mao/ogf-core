@@ -1,4 +1,4 @@
-ogf-core [One Game Framework]
+ogf[One Game Framework]
 ========
 
 一个游戏框架，包含基本所需要游戏代码零件。
